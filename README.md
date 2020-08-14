@@ -23,8 +23,9 @@ This repository contains Index.js, Triveous Mongo db (which has JSON files for i
 
 ## API Endpoints
 ### Bookmarks:
-Create and Retrieve: http://localhost:8080/bookmarks/
+Create and Retrieve: http://localhost:8080/bookmarks/ <br />
 Delete: http://localhost:8080/bookmarks/<bookmark_id>
+
 ### Tags:
-Create and Retrieve: http://localhost:8080/tags/
+Create and Retrieve: http://localhost:8080/tags/ <br />
 Delete: http://localhost:8080/tags/<tag_id>
