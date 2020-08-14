@@ -9,6 +9,10 @@ The project has 2 modules: Bookmarks and tags.
 1. Create a tag
 2. Delete a tag
 
+## Display Module
+1. Retrieve all bookmarks
+2. Retrieve all tags
+
 ## Project Contents:
 This repository contains Index.js, Triveous Mongo db (which has JSON files for importing database in mongoDB), and api directory.
 
