@@ -1,5 +1,5 @@
 # Bookmark-Mongo-Node-API
-The project has 2 modules: Bookmarks and tags.
+The project has 3 modules: Bookmarks, Tags and Display
 
 ## Bookmarks Module
 1. Create a bookmark
@@ -23,7 +23,8 @@ This repository contains Index.js, Triveous Mongo db (which has JSON files for i
 
 ## API Endpoints
 ### Bookmarks:
-http://localhost:8080/bookmarks/
-
+Create and Retrieve: http://localhost:8080/bookmarks/
+Delete: http://localhost:8080/bookmarks/<bookmark_id>
 ### Tags:
-http://localhost:8080/tags/
+Create and Retrieve: http://localhost:8080/tags/
+Delete: http://localhost:8080/tags/<tag_id>
