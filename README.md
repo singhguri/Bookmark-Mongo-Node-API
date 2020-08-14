@@ -18,7 +18,7 @@ This repository contains Index.js, Triveous Mongo db (which has JSON files for i
 
 ## How to run the project:
 1. Start Mongo db server.
-2. You can import respective JSON files from Mongo db into their respective collections in a database named "triveousDB" using your method of import (I preferred MongoDb Compass to import my JSONs).
+2. You can import respective JSON files from Mongo db into their respective collections in a database named "triveousDB" using your method of import (I preferred MongoDb Compass to import my JSON files).
 3. I tested the project using Postman tool.
 
 ## API Endpoints
